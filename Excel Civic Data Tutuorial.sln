@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B499EE78-3C36-428F-ABA1-51850FB475E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builiding Permits in Text", "Builiding Permits in Text", "{8A9C9A01-D0E0-45BE-93FF-58F8C99121C9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2004.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2004.txt
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2005.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2005.txt
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2006.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2006.txt
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2007.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2007.txt
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2008.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2008.txt
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2009.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2009.txt
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2010.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2010.txt
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2011.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2011.txt
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2012.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2012.txt
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2013.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2013.txt
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2014.txt = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in text\Building Permits 2014.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Building Permits in Excel", "Building Permits in Excel", "{7B7A9F7C-B12C-457A-88DB-86E4C9CBF03E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in XLS\Building Permits 2004.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in XLS\Building Permits 2004.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in XLS\Building Permits 2012.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in XLS\Building Permits 2012.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in XLS\Building Permits 2013.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in XLS\Building Permits 2013.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in XLS\Building Permits 2014.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in XLS\Building Permits 2014.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in XLS\Building Permits Combined Years.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits in XLS\Building Permits Combined Years.xlsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Building Permits with Cleaned Tables", "Building Permits with Cleaned Tables", "{8647EA4C-D829-4A62-8C58-F98065F7EF3B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2011-Cleaned-Table.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2011-Cleaned-Table.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2012-Cleaned-Table.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2012-Cleaned-Table.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2013-Cleaned-Table.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2013-Cleaned-Table.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2013-Cleaned.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2013-Cleaned.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2014-Cleaned-table.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2014-Cleaned-table.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2014-Cleaned.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with clean tables\Building Permits 2014-Cleaned.xlsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Building Permits with Ceaned Talbes and Years Added", "Building Permits with Ceaned Talbes and Years Added", "{5CFBEED7-AD17-4939-9D4C-6E4CE44A6D6E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with Clean tables and years added\Building Permits 2011-Cleaned-Table-With Year.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with Clean tables and years added\Building Permits 2011-Cleaned-Table-With Year.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with Clean tables and years added\Building Permits 2012-Cleaned-Table-With Year.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with Clean tables and years added\Building Permits 2012-Cleaned-Table-With Year.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with Clean tables and years added\Building Permits 2013-Cleaned-Table-with Year.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with Clean tables and years added\Building Permits 2013-Cleaned-Table-with Year.xlsx
+		..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with Clean tables and years added\Building Permits 2014-Cleaned-table-with year.xlsx = ..\..\..\..\OneDrive - Microsoft\TCE\CDUP\Permits with Clean tables and years added\Building Permits 2014-Cleaned-table-with year.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8A9C9A01-D0E0-45BE-93FF-58F8C99121C9} = {B499EE78-3C36-428F-ABA1-51850FB475E3}
+		{7B7A9F7C-B12C-457A-88DB-86E4C9CBF03E} = {B499EE78-3C36-428F-ABA1-51850FB475E3}
+		{8647EA4C-D829-4A62-8C58-F98065F7EF3B} = {B499EE78-3C36-428F-ABA1-51850FB475E3}
+		{5CFBEED7-AD17-4939-9D4C-6E4CE44A6D6E} = {B499EE78-3C36-428F-ABA1-51850FB475E3}
+	EndGlobalSection
+EndGlobal
