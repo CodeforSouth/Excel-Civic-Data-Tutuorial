@@ -1,3 +1,3 @@
 .# Excel-Civic-Data-Tutuorial
-These are the demo files for the Excel and Civic Data workshop. 
+Yes, I know that Tutorial is misspelled.  These are the workshop files for the Excel and Civic Data workshop. 
  Also includes a Student's guide
